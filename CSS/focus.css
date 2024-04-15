@@ -1,0 +1,5 @@
+input:focus {
+    color: rgb(55, 100, 28);
+    background-color: beige;
+    border-radius: 1px 2px 1em;
+}
