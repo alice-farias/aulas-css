@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 1vh;
+    padding: 1vh;
+}
+
+img {
+    width: 10vh;
+}
+
+.container {
+    border: 1px solid;
+    overflow: auto;
+
+}
+
+.container img {
+    float: right;
+    padding: 1vh; 
+}
+
+p {
+    text-align: center;
+    margin-top: 2vh;
+    
+}
+
+div {
+    border: 1px solid;
+    margin-top: 1vh;
+
+}
+
+.p1 {
+float: right;
+}
+
+.p2 {
+    clear: left;
+}

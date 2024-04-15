@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+
+/* é necessário começar sempre com esta regra pois conseguimos trabalhar com o tamanho real da tela, sem nenhuma margem pré definida. */
+
+
+
+body {
+    background-color: black;
+    text-align: justify;
+    color: white;
+}
+
+h1 {
+    color: #730202;
+    font-family: 'nosifer';
+
+}
+/* elemento id */
+
+article p {
+    color: #F2BFAC;
+}
+
+
+a {
+    text-decoration: none;
+
+}
+nav ul li  {
+    color: white;
+    display: inline;
+    font-size: larger;
+    border-style: ridge;
+    border-color: black;
+    background-color: #730202;
+   
+    
+}
+
+h3 {
+    border-style: dotted;
+    border-color: brown;
+}
+
+footer {
+    margin-top: 20px;
+    /* jeito de fazer porta mais simplificado em apenas uma linha */
+    border: solid rgb(255, 255, 255) 2px;
+    /* border radius arredonda a borda */
+    border-radius: 5px;
+}

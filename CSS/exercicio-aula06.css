@@ -1,0 +1,25 @@
+/* automatiza o padrão de caixa para que não fique se expandindo na tela independente da adição de elementos */
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+.box1 {
+
+    border: 5px solid rgb(39, 128, 55);
+    background-color: rgb(219, 211, 191);
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+}
+
+.box2 {
+    border: 5px solid rgb(178, 70, 70);
+    height: 400px;
+    width: 400px;
+    background-color: rgba(135, 88, 61, 0.361);
+    margin: 10px;
+
+}

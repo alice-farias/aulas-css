@@ -1,0 +1,23 @@
+body {
+    background-color: #D9A3B6;
+}
+h1 {
+    background-color: #A62648;
+    color: white;
+    text-shadow: 2px 1px 5px ;
+}
+
+h2 {
+    background-color: #D98179;
+    text-align: center;
+    color: #F2C2CB;
+}
+
+ul li {
+    font-weight: 700;
+    color:  #a75d6aCB;
+}
+
+p {
+    color: #a75d6a;
+}

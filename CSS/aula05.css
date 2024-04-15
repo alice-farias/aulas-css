@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Marko+One&display=swap');
+
+*  {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url(../IMG/guacamole-dip-nachos-plate-isolated-white-background-37190887.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family: 'marko one';
+    color: #F25E86;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #6DA644;
+    font-size: 20px;
+    font-family: 'marko one';
+}
+
+img {
+    width: 300px;
+
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-family: 'marko one';
+}
+
+footer {
+    margin-top: 20px;
+    font-family: 'marko one';
+    text-align: center;
+
+}
+
+h2 {
+    color: #0CDBF2;
+    font-family: 'marko one';
+}
+
+p {
+    
+    font-family: 'marko one';
+    font-size: 14px;
+
+}

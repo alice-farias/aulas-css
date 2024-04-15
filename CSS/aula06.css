@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.box1 {
+    background-color: darkolivegreen;
+    height: 100vh;
+}
+
+.box2 {
+    background-color: rgba(187, 188, 117, 0.805);
+    height: 100vh;
+}
+
+.box3 {
+    background-color: rgba(184, 158, 92, 0.549);
+    height: 100vh;
+}

@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&display=swap');
+
+h1 {
+    font-family: 'calistoga';
+    font-weight: lighter;
+    color: #591902;
+    background-color: #BFAC9B;
+}
+
+body {
+    background-color: rgb(228, 217, 201);
+}
+
+p {
+    color: rgb(0, 0, 0);
+    
+}
+
+.comentario {
+    color: #591902;
+    font-style: oblique;
+    text-align: right;
+}
+
+p.fundo {
+    background-color: #f0f1ada1; 
+}
+
+h2 {
+    font-family: 'calistoga';
+    font-weight: lighter;
+    color: #727355;
+}
+
+.cor-de-fundo {
+    background-color: #F2F2F2;
+}
+
+.cor-de-texto {
+    color: #351e9bc2;
+}
