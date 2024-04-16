@@ -1,0 +1,19 @@
+/* cria um elemento visual que não está no html  */
+
+
+
+.p2::after{
+    content: " - Leia mais";
+}
+
+.p2::before {
+    content: "Leia isso: ";
+}
+
+.p1::first-letter {
+    color: violet;
+    font-size: 25px;
+}
+
+
+

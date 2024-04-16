@@ -3,3 +3,23 @@ input:focus {
     background-color: beige;
     border-radius: 1px 2px 1em;
 }
+
+
+/* decoração do link */
+a:link {
+    text-decoration: none;
+    color: darkgreen;
+}
+
+/* decoração do link ao ser clicado */
+a:active {
+    font-size: 25px;
+    color: brown;
+    font-style: italic;
+}
+
+/* decoração do link depois de visitado */
+a:visited {
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
